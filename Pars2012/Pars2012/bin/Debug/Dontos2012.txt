@@ -1,0 +1,24 @@
+A. G. Kruger;B;Egyesült Államok;USA;-1;72,13;-1;
+
+Alekszej Zagornij;B;Oroszország;RUS;71,02;72,52;-1;
+
+Alexander Smith;A;Nagy-Britannia;GBR;72,59;74,71;73,21;
+
+Aléxandrosz Papadimitríu;A;Görögország;GRE;-1;66,91;67,19;
+
+Ali ez-Zinkavi;B;Kuvait;KUW;70,67;73,4;-1;
+
+Artem Rubanko;B;Ukrajna;UKR;-1;-1;-1;
+
+David Söderberg;B;Finnország;FIN;-1;71,26;71,76;
+
+Dilsod Nazarov;A;Tádzsikisztán;TJK;73,9;-1;75,91;
+
+Dmitri Marşin;B;Azerbajdzsán;AZE;72,06;-1;72,85;
+
+Eivind Henriksen;B;Norvégia;NOR;72,67;-1;74,62;
+
+Eşref Apak;A;Törökország;TUR;-1;-1;73,47;
+
+Haklits András;A;Horvátország;CRO;-1;70,61;-1;
+
